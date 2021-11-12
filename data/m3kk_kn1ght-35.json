@@ -1,0 +1,9 @@
+{
+  "contest": "Vader Protocol contest",
+  "handle": "m3kk_kn1ght",
+  "address": "0x520d7e08d363a21f4bFeEc04519c20dCe1045327",
+  "risk": "2",
+  "title": "Vesting account can greater than 2.5b VADER token",
+  "issueId": 35,
+  "issueUrl": "https://github.com/code-423n4/2021-11-vader-findings/issues/35"
+}
