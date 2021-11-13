@@ -1,0 +1,9 @@
+{
+  "contest": "Vader Protocol contest",
+  "handle": "TomFrench",
+  "address": "0x60959Ed8307EE2b0d04306f6b319AEeE8864f1Ee",
+  "risk": "0",
+  "title": "Incorrect + misleading documentation on BasePool and BasePoolV2",
+  "issueId": 84,
+  "issueUrl": "https://github.com/code-423n4/2021-11-vader-findings/issues/84"
+}
