@@ -1,0 +1,9 @@
+{
+  "contest": "Vader Protocol contest",
+  "handle": "0xean",
+  "address": "0xean.eth",
+  "risk": "G",
+  "title": "Using SafeMath ins Solidity 0.8.9 contracts wastes gas",
+  "issueId": 64,
+  "issueUrl": "https://github.com/code-423n4/2021-11-vader-findings/issues/64"
+}
