@@ -1,0 +1,9 @@
+{
+  "contest": "Vader Protocol contest",
+  "handle": "rfa",
+  "address": "0x95687C27DcE4D413a91A0E1fd0478F4751da8730",
+  "risk": "2",
+  "title": "Missing hasStarted modifier, can lead to user vesting before the owner begin the vesting",
+  "issueId": 89,
+  "issueUrl": "https://github.com/code-423n4/2021-11-vader-findings/issues/89"
+}
