@@ -1,0 +1,9 @@
+{
+  "contest": "Vader Protocol contest",
+  "handle": "Reigada",
+  "address": "0x70eC7d795dB10c5c27d07c926fD0e0A2BB9bF77B",
+  "risk": "G",
+  "title": "Contract StakingRewards (pragma 0.8.9) makes use of SafeMath",
+  "issueId": 70,
+  "issueUrl": "https://github.com/code-423n4/2021-11-vader-findings/issues/70"
+}
