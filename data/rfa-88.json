@@ -1,0 +1,9 @@
+{
+  "contest": "Vader Protocol contest",
+  "handle": "rfa",
+  "address": "0x95687C27DcE4D413a91A0E1fd0478F4751da8730",
+  "risk": "3",
+  "title": "Missing balance check before and after transfer, can lead to inconsistent amount due to fee on transfer",
+  "issueId": 88,
+  "issueUrl": "https://github.com/code-423n4/2021-11-vader-findings/issues/88"
+}
