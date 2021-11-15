@@ -1,0 +1,9 @@
+{
+  "contest": "Vader Protocol contest",
+  "handle": "shri4net",
+  "address": "0xd2DFc6F7a13AD5576eEBBDa7C8DEE36908Cb3AaD",
+  "risk": "2",
+  "title": "XVader.sol : loss of user funds during 'leave' function",
+  "issueId": 187,
+  "issueUrl": "https://github.com/code-423n4/2021-11-vader-findings/issues/187"
+}
