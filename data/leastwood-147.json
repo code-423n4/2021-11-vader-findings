@@ -1,0 +1,9 @@
+{
+  "contest": "Vader Protocol contest",
+  "handle": "leastwood",
+  "address": "0x28235dE0121700a462B5098Cff7D3615b050551F",
+  "risk": "3",
+  "title": "Anyone Can Arbitrarily Mint Fungible Tokens In `VaderPoolV2.mintFungible()`",
+  "issueId": 147,
+  "issueUrl": "https://github.com/code-423n4/2021-11-vader-findings/issues/147"
+}
